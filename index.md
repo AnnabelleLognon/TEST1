@@ -13,7 +13,6 @@
   <li>item 2</li>
 </ol>
   
-  
   <h4>unordered lists have bullets</h4>
 <ul>
   <li>item 1</li>
@@ -26,6 +25,10 @@
 <p>in this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italisicised for effect</em> eg <em> he cried!</em>.</p>
 
 <hr>
+<h3>links and Images</h3>
+<p>First I'm going to link to <a href="https://www.youtube.com/?hl=en-GB&gl=GB">my website</a></p>
+
+
 
 
 
