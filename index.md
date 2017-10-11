@@ -5,7 +5,27 @@
 
 <hr>
 
+<h2>some html formating stuff</h2>
+<h3>lists</h3>
+<h4>ordered lists have numbers</h4>
+<ol>
+  <li>item 1</li>
+  <li>item 2</li>
+</ol>
+  
+  
+  <h4>unordered lists have bullets</h4>
+<ul>
+  <li>item 1</li>
+  <li>item 2</li>
+</ul>
+  
+<hr>
 
+<h3>Text styles</h3>
+<p>in this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italisicised for effect</em> eg <em> he cried!</em>.</p>
+
+<hr>
 
 
 
