@@ -33,6 +33,26 @@
 
 
 
+<table>
+  <tr>
+    <th>English</th>
+    <th>French</th>
+    <th>German</th>
+  </tr>
+  <tr>
+    <td>table</td>
+    <td>la table</td>
+    <td>der Tisch</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
+
+
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnnabelleLognon/TEST1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
