@@ -1,7 +1,7 @@
-<h1>Language made easy</h1>
+<h1>Language Made Easy</h1>
 
-<h2>About this page</h2>
-<p>this is the first paragraph. it will be interesting soon</p>
+<h2>About This Page</h2>
+<p>The purpose of this website is to help people develop their language abilities.</p>
 
 <hr>
 
