@@ -1,10 +1,9 @@
 <ul class="breadcrumb">
   <li><a href="#">Home</a></li>
-  <li><a href="#">Grammar</a></li>
+  <li><a href="#">Grammer</a></li>
   <li><a href="#">Bundeslaender 15</a></li>
-  <li>acts</li>
+  <li>Vocabulary</li>
 </ul>
-
 
 
 <h1>Language Made Easy</h1>
