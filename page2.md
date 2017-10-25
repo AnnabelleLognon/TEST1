@@ -1,10 +1,7 @@
 <ul class="breadcrumb">
   <li><a href="#">Home</a></li>
-  <li><a href="#">Pictures</a></li>
-  <li><a href="#">Summer 15</a></li>
-  <li>Italy</li>
+  <li><a href="#">Grammer</a></li>
 </ul>
-
 
 <h1>German</h1>
 <h3>A bit about the German laguage</h3>
