@@ -13,5 +13,5 @@
   <li>Germany</li>
   <li>Austria</li>
   <li>Switzerland</li>
-  <li>Liechtenstein
+  <li>Liechtenstein</li>
 </ul>
