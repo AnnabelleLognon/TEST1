@@ -57,7 +57,7 @@
 </html>
 
 <P>
-  <img src"img/colurful birds.jpeg"/>
+  <img src"img/colorful birds.jpg"/>
   </p>
 
 
