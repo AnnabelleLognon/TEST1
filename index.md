@@ -56,9 +56,9 @@
 </body>
 </html>
 
-<P>
+
   <img src"img/colorful birds.jpg"/>
-  </p>
+  
 
 
 
