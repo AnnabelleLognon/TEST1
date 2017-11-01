@@ -57,7 +57,7 @@
 </html>
 
 
-  <img src="img/colorful birds.jpg"/>
+  <img src="img/colorful birds.jpg" style="width:40%;"/>
   
 
 
