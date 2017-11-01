@@ -1,6 +1,7 @@
 <ul class="breadcrumb">
-  <li><a href="#">Home</a></li>
-  </ul>
+  <li>home</li>
+</ul>
+
 
 
 <h1>Language Made Easy</h1>
