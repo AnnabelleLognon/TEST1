@@ -1,7 +1,9 @@
 <ul class="breadcrumb">
-  <li><a href="#">Home</a></li>
-  <li><a href="#">page 2</a></li>
+  <li><a href="index.html">Home</a></li>
+  <li>page 2</li>
 </ul>
+
+
 
 <h1>German</h1>
 <h3>A bit about the German laguage</h3>
