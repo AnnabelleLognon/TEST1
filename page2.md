@@ -11,6 +11,6 @@
 
 <p>
   <a style="float:left;" href="index.html">Back to home</a>
-  <a style="float:right;"href="page3.html">Continue to page 3</a>
+  <a style="float:right;" href="page3.html">Continue to page 3</a>
   </p>
   <div style="clear:both;"></div>
